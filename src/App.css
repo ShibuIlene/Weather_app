@@ -1,0 +1,44 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.search {
+  margin: 20px 0;
+}
+
+.search input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+  
+}
+
+.search button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(63, 63, 63);
+  color: white;
+  border-style:double;
+  border-color: rgb(128, 255, 0);
+  border-radius: 50%;
+}
+
+.weather {
+  margin-top: 20px;
+}
+.weather img{
+  width: 100px;
+}
+
+.weather h2 {
+  font-size: 24px;
+}
+
+.weather p {
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
